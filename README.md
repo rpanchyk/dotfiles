@@ -1,5 +1,5 @@
 # My Env Setup
 
-This repository contains configuration file and scripts for daily tasks.
+This repository contains configuration files and scripts for daily tasks.
 
 - [Windows](windows)

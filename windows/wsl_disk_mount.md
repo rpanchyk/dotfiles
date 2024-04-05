@@ -1,6 +1,6 @@
 # Mount a Linux disk in WSL
 
-- https://learn.microsoft.com/ru-ru/windows/wsl/wsl2-mount-disk
+- https://learn.microsoft.com/en-us/windows/wsl/wsl2-mount-disk
 
 ## PowerShell
 
