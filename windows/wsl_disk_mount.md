@@ -2,7 +2,7 @@
 
 - https://learn.microsoft.com/en-us/windows/wsl/wsl2-mount-disk
 
-## PowerShell
+## PowerShell (Run as administrator)
 
 ```
 GET-CimInstance -query "SELECT * from Win32_DiskDrive"
