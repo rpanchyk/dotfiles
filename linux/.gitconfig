@@ -1,0 +1,15 @@
+[core]
+    autocrlf = input
+    filemode = false
+
+[pull]
+    rebase = true
+
+[push]
+    default = simple
+
+[user]
+    useConfigOnly = true
+
+[includeIf "gitdir:C:/Data/Dev/github-rpanchyk/"]
+    path = .gitconfig-github-rpanchyk
