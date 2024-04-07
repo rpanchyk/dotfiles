@@ -26,13 +26,13 @@ fi
 ' --tag-name-filter cat -- --branches --tags
 ```
 
-## Apply changes with corrected history
+Apply changes with corrected history
 
 ```shell
 git push --force --tags origin 'refs/heads/*'
 ```
 
-## Clean repository
+Clean repository
 
 ```shell
 git fetch origin
